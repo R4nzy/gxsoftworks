@@ -1,12 +1,12 @@
 body {
     font-family: Arial, sans-serif;
-    background-image: url('logo.jpg'); /* replace with your image URL */
+    background-color: #1f1f1f;
     background-size: cover;
     background-position: center;
     display: flex;
     align-items: center;
     justify-content: center;
-    min-height: 100vh;
+    min-height: 100vh;  
     margin: 0;
 }
 
@@ -21,7 +21,19 @@ body {
     color: #fff;
 }
 
-/* rest of the CSS remains the same */    
+.top-container {
+    position: absolute;
+    top: 0;
+    width: 2000px;
+    padding: 50px;
+    border: none;
+    border-radius: 12px;
+    background-color: #272727;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    color: #fff;
+}
+
 
 h1 {
     font-size: 2rem;
