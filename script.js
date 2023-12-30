@@ -1,5 +1,5 @@
 document.getElementById('DownloadExternal').addEventListener('click', function () {
-    window.location.href = 'https://www.mediafire.com/file/9orfb7zw13ues87/GX_External.rar/file'; // replace with your desired URL
+    window.location.href = 'https://www.mediafire.com/file/q0pg6fyzcqzwmym/GX_External.rar/file'; // replace with your desired URL
 });
 
 document.getElementById('DownloadInternal').addEventListener('click', function () {
